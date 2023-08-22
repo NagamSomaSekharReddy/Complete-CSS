@@ -1,0 +1,9 @@
+.flexcontainer{
+    display: flex;
+    gap: 10px;
+}
+.flexitems{
+    background-color: blue;
+    width: 100px;
+    flex-basis: 200px;
+}
